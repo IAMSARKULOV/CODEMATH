@@ -1,0 +1,16 @@
+*{
+    padding: 0 ;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+
+.container-xl{
+    position: absolute;
+    top: 64px;
+}
+section.section_1{
+    background-color: #072227;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+}
